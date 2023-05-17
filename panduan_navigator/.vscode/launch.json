@@ -1,0 +1,27 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "panduan_navigator",
+            "cwd": "panduan_navigator",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "panduan_navigator (profile mode)",
+            "cwd": "panduan_navigator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "panduan_navigator (release mode)",
+            "cwd": "panduan_navigator",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
